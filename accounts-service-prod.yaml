@@ -1,7 +1,7 @@
 build:
   version: 1.0-account-prod
 accounts:
-  message: "welcome to accounts service prod just env"
+  message: "welcome to accounts service prod just changed  env"
   contactDetails:
     name: "Roop account prod"
     email: "{cipher}ceea72baafc69a4e7becd6f87c105b200c7d37117a6b5212613e22dbd61968463f1b8908fbfa20a55a6719c9fd9204cc"
