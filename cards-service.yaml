@@ -1,0 +1,10 @@
+build:
+  version: 1.0-card-default
+cards:
+  message: "welcome to cards service default"
+  contactDetails:
+    name: "Roop cards"
+    email: "cardsdefault@gmail.com"
+  onCallSupport:
+    - "9521567628"
+    - "9521567629"

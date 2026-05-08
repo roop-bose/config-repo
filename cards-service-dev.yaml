@@ -1,0 +1,10 @@
+build:
+  version: 1.0-cards-dev
+cards:
+  message: "welcome to cards service dev env"
+  contactDetails:
+    name: "Roop cards dev"
+    email: "cardsdev@gmail.com"
+  onCallSupport:
+    - "9521567628"
+    - "9521567629"

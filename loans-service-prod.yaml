@@ -1,0 +1,10 @@
+build:
+  version: 1.0-loans-prod
+loans:
+  message: "welcome to loans service prod env"
+  contactDetails:
+    name: "Roop loans"
+    email: "loansprod@gmail.com"
+  onCallSupport:
+    - "9521567630"
+    - "9521567631"

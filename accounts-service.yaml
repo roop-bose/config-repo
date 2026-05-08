@@ -1,0 +1,10 @@
+build:
+  version: 1.0-account-default
+accounts:
+  message: "welcome to accounts service default"
+  contactDetails:
+    name: "Roop account"
+    email: "accountsdefault@gmail.com"
+  onCallSupport:
+    - "9521567626"
+    - "9521567627"

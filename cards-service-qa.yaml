@@ -1,0 +1,10 @@
+build:
+  version: 1.0-cards-qa
+cards:
+  message: "welcome to cards service qa env"
+  contactDetails:
+    name: "Roop cards qa"
+    email: "cardssqa@gmail.com"
+  onCallSupport:
+    - "9521567632"
+    - "9521567633"

@@ -1,0 +1,10 @@
+build:
+  version: 1.0-account-dev
+accounts:
+  message: "welcome to accounts service dev env"
+  contactDetails:
+    name: "Roop account dev"
+    email: "accountsdev@gmail.com"
+  onCallSupport:
+    - "9521567628"
+    - "9521567629"

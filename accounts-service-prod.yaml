@@ -1,0 +1,10 @@
+build:
+  version: 1.0-account-prod
+accounts:
+  message: "welcome to accounts service prod env"
+  contactDetails:
+    name: "Roop account prod"
+    email: "accountsprod@gmail.com"
+  onCallSupport:
+    - "9521567630"
+    - "9521567631"

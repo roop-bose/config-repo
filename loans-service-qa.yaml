@@ -1,0 +1,10 @@
+build:
+  version: 1.0-loans-qa
+loans:
+  message: "welcome to loans service qa env"
+  contactDetails:
+    name: "Roop loans"
+    email: "loansqa@gmail.com"
+  onCallSupport:
+    - "9521567630"
+    - "9521567631"

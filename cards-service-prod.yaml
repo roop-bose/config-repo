@@ -1,0 +1,10 @@
+build:
+  version: 1.0-cards-prod
+cards:
+  message: "welcome to cards service prod env"
+  contactDetails:
+    name: "Roop cards"
+    email: "cardsprod@gmail.com"
+  onCallSupport:
+    - "9521567630"
+    - "9521567631"

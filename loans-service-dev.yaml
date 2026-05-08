@@ -1,0 +1,10 @@
+build:
+  version: 1.0-loans-dev
+loans:
+  message: "welcome to loans service dev env"
+  contactDetails:
+    name: "Roop loans"
+    email: "loansdev@gmail.com"
+  onCallSupport:
+    - "9521567630"
+    - "9521567631"

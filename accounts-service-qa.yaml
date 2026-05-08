@@ -1,0 +1,10 @@
+build:
+  version: 1.0-account-qa
+accounts:
+  message: "welcome to accounts service qa env"
+  contactDetails:
+    name: "Roop account qa"
+    email: "accountsqa@gmail.com"
+  onCallSupport:
+    - "9521567632"
+    - "9521567633"

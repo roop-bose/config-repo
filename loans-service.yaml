@@ -1,0 +1,10 @@
+build:
+  version: 1.0-loans-default
+loans:
+  message: "welcome to loans service default"
+  contactDetails:
+    name: "Roop loans"
+    email: "loansdefault@gmail.com"
+  onCallSupport:
+    - "9521567630"
+    - "9521567631"
