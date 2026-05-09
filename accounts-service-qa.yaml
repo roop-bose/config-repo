@@ -1,7 +1,7 @@
 build:
   version: 1.0-account-qa
 accounts:
-  message: "welcome to accounts service qa env"
+  message: "welcome to accounts service  updated qa env"
   contactDetails:
     name: "Roop account qa"
     email: "accountsqa@gmail.com"
