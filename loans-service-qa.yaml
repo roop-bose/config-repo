@@ -1,7 +1,7 @@
 build:
   version: 1.0-loans-qa
 loans:
-  message: "welcome to loans service  updated after ok2 rabbitmq qa env"
+  message: "welcome to loans service  updated after ok3 rabbitmq qa env"
   contactDetails:
     name: "Roop loans"
     email: "loansqa@gmail.com"
